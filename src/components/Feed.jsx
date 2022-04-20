@@ -1,8 +1,8 @@
-import React from 'react'
+import { Box } from "@mui/system";
 
 const Feed = () => {
   return (
-    <div>Feed</div>
+    <Box bgcolor="pink" flex={4} p={2}>Feed</Box>
   )
 }
 
